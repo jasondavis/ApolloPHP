@@ -1,4 +1,4 @@
-![](http://codedevelopr.com/screenshots/apollophplogo.png)
+![](http://codedevelopr.com/screenshots/apollophplogo2.png)
 
 ApolloPHP
 =========
