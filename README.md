@@ -23,6 +23,20 @@ and fast PHP applications.
 - PSR-2 Compliant
 - Composer support
 
+<div class="highlight"><pre><code class="bash">  bootstrap/
+  ├── css/
+  │   ├── bootstrap.css
+  │   ├── bootstrap.min.css
+  ├── js/
+  │   ├── bootstrap.js
+  │   ├── bootstrap.min.js
+  └── fonts/
+      ├── glyphiconshalflings-regular.eot
+      ├── glyphiconshalflings-regular.otf
+      ├── glyphiconshalflings-regular.svg
+      ├── glyphiconshalflings-regular.ttf
+      └── glyphiconshalflings-regular.woff
+</code></pre></div>
 
 ----------
 #### Contact ####
