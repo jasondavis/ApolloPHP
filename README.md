@@ -22,21 +22,46 @@ and fast PHP applications.
 
 - PSR-2 Compliant
 - Composer support
+- 
+- 
+#### File Structure ####
+* Notice this file structure is just for looks and does not reflect the current file system of the Framework, it's more of a placeholder that will get filled in correctly over time  
 
-<div class="highlight"><pre><code class="bash">  bootstrap/
-  ├── css/
-  │   ├── bootstrap.css
-  │   ├── bootstrap.min.css
-  ├── js/
-  │   ├── bootstrap.js
-  │   ├── bootstrap.min.js
-  └── fonts/
-      ├── glyphiconshalflings-regular.eot
-      ├── glyphiconshalflings-regular.otf
-      ├── glyphiconshalflings-regular.svg
-      ├── glyphiconshalflings-regular.ttf
-      └── glyphiconshalflings-regular.woff
-</code></pre></div>
+<pre><code class="bash">
+application/
+  ├── controllers/
+  │   ├── controller.php
+  │   └── some_controller.php
+  ├── models/
+  │   ├── model.php
+  │   └── some_model.php
+  ├── views/
+  │   ├── view.php
+  │   └── some_view.php
+  ├── helpers/
+  │   ├── helper.php
+  │   └── some_helper.php
+  └── index.php
+
+
+apollophp/
+  ├── cache/
+  ├── controller/
+  ├── database/
+  ├── dependency_container/
+  ├── request/
+  ├── response/
+  ├── image_processing/
+  ├── some_folder/
+  │   ├── some_file.php
+  │   └── some_file.php
+  └── some_folder/
+  │   ├── some_file.php
+  │   └── some_file.php
+  └── some_folder/
+      ├── some_file.php
+      └── some_file.php
+</code></pre>
 
 ----------
 #### Contact ####
