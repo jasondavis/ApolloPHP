@@ -1,4 +1,4 @@
-![](http://codedevelopr.com/screenshots/apollophplogo.png)
+![](http://codedevelopr.com/screenshots/apollophplogo2.png)
 
 ApolloPHP
 =========
@@ -20,21 +20,19 @@ and fast PHP applications.
 - Lots more soon...
 
 
-
 - PSR-2 Compliant
 - Composer support
-
 
 
 ----------
 #### Contact ####
 
-Jason Davis  (jason.davis.fl@gmail.com)
-Website:          [http://www.codedevelopr.com/](http://www.codedevelopr.com/)
+Jason Davis  (jason.davis.fl@gmail.com)  
+Website:          [http://www.codedevelopr.com/](http://www.codedevelopr.com/)  
 
-Follow...
-Twitter [http://twitter.com/JasonDavisFL](http://twitter.com/#!/JasonDavisFL)
-App.net [https://alpha.app.net/jasondavis](https://alpha.app.net/jasondavis)
-Google+ [https://plus.google.com/117510251192128334139](https://plus.google.com/117510251192128334139)
-Dribbble [http://dribbble.com/jason-davis](http://dribbble.com/jason-davis)
-Kippt [https://kippt.com/jasondavis](https://kippt.com/jasondavis)
+Follow...  
+Twitter [http://twitter.com/JasonDavisFL](http://twitter.com/#!/JasonDavisFL)  
+App.net [https://alpha.app.net/jasondavis](https://alpha.app.net/jasondavis)  
+Google+ [https://plus.google.com/117510251192128334139](https://plus.google.com/117510251192128334139)  
+Dribbble [http://dribbble.com/jason-davis](http://dribbble.com/jason-davis)  
+Kippt [https://kippt.com/jasondavis](https://kippt.com/jasondavis)  
