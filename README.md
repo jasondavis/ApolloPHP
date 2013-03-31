@@ -17,51 +17,49 @@ and fast PHP applications.
 - Caching
 - Image Processing
 - Documentation on every feature
-- Lots more soon...
-
-
 - PSR-2 Compliant
 - Composer support
-- 
-- 
+- Lots more soon.........
+
+
 #### File Structure ####
-* Notice this file structure is just for looks and does not reflect the current file system of the Framework, it's more of a placeholder that will get filled in correctly over time  
 
-<pre><code class="bash">
-application/
-  ├── controllers/
-  │   ├── controller.php
-  │   └── some_controller.php
-  ├── models/
-  │   ├── model.php
-  │   └── some_model.php
-  ├── views/
-  │   ├── view.php
-  │   └── some_view.php
-  ├── helpers/
-  │   ├── helper.php
-  │   └── some_helper.php
-  └── index.php
+*Notice this file structure is just for looks and does not reflect the current file system of the Framework, it's more of a placeholder that will get filled in correctly over time*
 
-
-apollophp/
-  ├── cache/
-  ├── controller/
-  ├── database/
-  ├── dependency_container/
-  ├── request/
-  ├── response/
-  ├── image_processing/
-  ├── some_folder/
-  │   ├── some_file.php
-  │   └── some_file.php
-  └── some_folder/
-  │   ├── some_file.php
-  │   └── some_file.php
-  └── some_folder/
+    application/
+      ├── controllers/
+      │   ├── controller.php
+      │   └── some_controller.php
+      ├── models/
+      │   ├── model.php
+      │   └── some_model.php
+      ├── views/
+      │   ├── view.php
+      │   └── some_view.php
+      ├── helpers/
+      │   ├── helper.php
+      │   └── some_helper.php
+      └── index.php
+    
+    
+    apollophp/
+      ├── cache/
+      ├── controller/
+      ├── database/
+      ├── dependency_container/
+      ├── request/
+      ├── response/
+      ├── image_processing/
+      ├── some_folder/
+      │   ├── some_file.php
+      │   └── some_file.php
+      └── some_folder/
+      │   ├── some_file.php
+      │   └── some_file.php
+      └── some_folder/
       ├── some_file.php
       └── some_file.php
-</code></pre>
+
 
 ----------
 #### Contact ####
