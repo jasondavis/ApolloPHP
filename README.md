@@ -3,13 +3,13 @@
 ApolloPHP
 =========
 
-ApolloPHP is a Lightweight PHP MVC Framework and Library
+ApolloPHP is a Lightweight PHP HMVC Framework and Library
 
 ApolloPHP is a work in progress and will be constantly evolving into a nice clean, simple, and lightweight PHP Library to simplify building lightweight
 and fast PHP applications.
 
 #### Core Features ####
-- MVC (Models, Controllers, Views)
+- HMVC (Hierarchical, Models, Controllers, Views)
 - Routing
 - Request/Response
 - Dependency injection
