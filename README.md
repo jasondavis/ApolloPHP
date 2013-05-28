@@ -27,15 +27,27 @@ and fast PHP applications.
 *Notice this file structure is just for looks and does not reflect the current file system of the Framework, it's more of a placeholder that will get filled in correctly over time*
 
     application/
-      ├── controllers/
-      │   ├── controller.php
-      │   └── some_controller.php
-      ├── models/
-      │   ├── model.php
-      │   └── some_model.php
-      ├── views/
-      │   ├── view.php
-      │   └── some_view.php
+      ├── modules/
+      │   ├── users/
+      │   │   ├── controller/
+      │   │   │   ├── user.controller.php
+      │   │   │   └── some_other_controller.php
+      │   │   ├── models/
+      │   │   │   ├── user.model.php
+      │   │   │   └── some_other_model.php
+      │   │   └── views/
+      │   │       ├── user.view.php
+      │   │       └── some_other_view.php
+      │   ├── messages/
+      │   │   ├── controller/
+      │   │   │   ├── messages.controller.php
+      │   │   │   └── some_other_controller.php
+      │   │   ├── models/
+      │   │   │   ├── messages.model.php
+      │   │   │   └── some_other_model.php
+      │   │   └── views/
+      │   │       ├── messages.view.php
+      │   │       └── some_other_view.php
       ├── helpers/
       │   ├── helper.php
       │   └── some_helper.php
