@@ -5,4 +5,5 @@ This file will be used to record major changes including new additions, deletion
 
 ## Version 0.0.1 (March 29th 2013) ##
 - Initial README and project Github repo created
+- Changed from MVC to HMVC (Hierarchical Modules which each have there own MVC structure)
 
