@@ -28,6 +28,11 @@ and fast PHP applications.
 
     application/
       ├── modules/
+      │   ├── Module_Name/
+      │   │   ├── controller/
+      │   │   ├── models/
+      │   │   ├── views/
+      │   │   └── helpers/
       │   ├── users/
       │   │   ├── controller/
       │   │   │   ├── user.controller.php
