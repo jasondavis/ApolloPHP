@@ -1,0 +1,9 @@
+{
+  "name": "ApolloPHP",
+  "twitter": [
+    "JasonDavisFL"
+  ],
+  "google_analytics": "UA-41250684-1",
+  "travis": false,
+  "issues": true
+}

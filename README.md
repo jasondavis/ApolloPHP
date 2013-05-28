@@ -8,7 +8,7 @@ ApolloPHP is a Lightweight PHP HMVC Framework and Library
 ApolloPHP is a work in progress and will be constantly evolving into a nice clean, simple, and lightweight PHP Library to simplify building lightweight
 and fast PHP applications.
 
-#### Core Features ####
+## Core Features ##
 - HMVC (Hierarchical, Models, Controllers, Views)
 - Routing
 - Request/Response
@@ -22,7 +22,7 @@ and fast PHP applications.
 - Lots more soon.........
 
 
-#### File Structure ####
+## File Structure ##
 
 *Notice this file structure is just for looks and does not reflect the current file system of the Framework, it's more of a placeholder that will get filled in correctly over time*
 
