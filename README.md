@@ -3,6 +3,8 @@
 ApolloPHP
 =========
 
+[![Join the chat at https://gitter.im/jasondavis/ApolloPHP](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jasondavis/ApolloPHP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ApolloPHP is a Lightweight PHP HMVC Framework and Library
 
 ApolloPHP is a work in progress and will be constantly evolving into a nice clean, simple, and lightweight PHP Library to simplify building lightweight
